@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Go to https://sararoma95.github.io/sr/ <code>pages/index.js</code>
         </p>
       </main>
 
